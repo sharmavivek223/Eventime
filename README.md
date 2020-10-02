@@ -4,7 +4,7 @@ Made as a semester project.
 
 ## Stack:
 * Flask
-* MongoDb
+* MongoDb - You can also use MongoDb Cloud Service - MongoDb Atlas
 
 ## Features pending:
 * admin portal
